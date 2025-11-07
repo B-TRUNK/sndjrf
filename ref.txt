@@ -1,0 +1,8 @@
+jndjrf
+======
+clean MTF
+serializers
+DRF
+unit-test (pytest, django test framework)
+code review
+deploy to staging
